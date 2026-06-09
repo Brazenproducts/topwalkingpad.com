@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://topwalkingpad.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://topwalkingpad.com/best-walking-pads.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://topwalkingpad.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://topwalkingpad.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://topwalkingpad.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://topwalkingpad.com/walkingpad-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://topwalkingpad.com/walkingpad-tested-ranked-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://topwalkingpad.com/best-walkingpad-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://topwalkingpad.com/truth-about-walkingpad-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://topwalkingpad.com/smart-walkingpad-shopping-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://topwalkingpad.com/walkingpad-reviewed-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://topwalkingpad.com/how-to-pick-walkingpad-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://topwalkingpad.com/walkingpad-buying-guide-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://topwalkingpad.com/walkingpad-worth-the-upgrade-2026.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://topwalkingpad.com/best-walkingpad-without-overpaying.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://topwalkingpad.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
